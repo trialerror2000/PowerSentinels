@@ -1,6 +1,6 @@
 # Power Sentinels
 Wireless Sensor Networking(WSN) Implementation using ESP-NOW Protocol to detect anomalities in Power Consumption
-\
+
 ## 🚩 The Problem
 Unauthorized tapping into household power lines leads to unfair electricity bills for the resident and creates dangerous electrical hazards for the home. These illegal connections often bypass standard safety measures, increasing the risk of electrical fires and damaging sensitive household electronics.
 
